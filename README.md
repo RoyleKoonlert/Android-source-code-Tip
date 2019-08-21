@@ -1,6 +1,4 @@
-# Android-source-code-Tip
-
-# Welcome to the Android-source-code-Tip wiki!
+# Welcome to the Android-source-code-Tip
 
 ### ## OnSingleClickListener for Preventing Double Click in x second.
 
